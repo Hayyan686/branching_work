@@ -12,6 +12,6 @@ print(d1[10])
 d1[20] = 500
 print(d1[20])
 
-#create
+
 d1[21] = 700
 print(d1)
